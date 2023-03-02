@@ -5,7 +5,7 @@ Algoritmo 3tempdoble
   Fin si
   Si (t2>=t1) y (t2>=t3)
   Entonces tmax<-t2
-  Sino  Si (t3<=t1)y(t3<=t2)
+  Sino  Si (t3>=t1)y(t3>=t2)
         Entonces tmax<-t3
         Finsi
   Finsi
