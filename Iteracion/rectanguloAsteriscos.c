@@ -28,7 +28,7 @@ int main(){
 		do{
 			printf("Introduzca altura [3-20]: ");
 			scanf(" %d",&h);
-		}while((h<3)||(h>40));
+		}while((h<3)||(h>20));
 		/* Arista superior */
 		j=1;
 		while(j<=a){
